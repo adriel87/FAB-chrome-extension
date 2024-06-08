@@ -1,0 +1,14 @@
+{
+  "name": "fab-chrome-extension",
+  "version": "1.0.0",
+  "description": "\"# Fab chrome extension\"",
+  "main": "background.js",
+  "devDependencies": {
+    "chrome-types": "^0.1.287"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
